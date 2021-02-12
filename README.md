@@ -1,2 +1,4 @@
 # Holography
-Images and Python code for holographic microscope
+Images and Python code for holographic microscope. This repository is dedicated to our work on an inexpensive digital in-line holographic microscope made from a laser, image sensor and Raspberry Pi. Construction instructions can be found here in the youtube video, youtu.be/zqBVLydhUBg "Microscope Kit V3" (2020). This project is supported by the Center for Cellular Construction (ccc.ucsf.edu) and the National Science Foundation under Grant No. DBI-1548297. Disclaimer: Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+
+Plankton and microfiber image dataset naming format: dino_7_6220.jpg  dino is the class of specimen (dino is dinoflagellate), 7 is the image number, 6220 is the true z focal plane in um.
