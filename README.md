@@ -16,4 +16,4 @@ Main program to detect, track and extract morphological features of plankton. Re
 
 To detect, track and extract features of plankton:
 1. Edit Common_4.py for the video file you want to process, the file name to store detection, tracking and features, and operating parameters you desire.
-2. Run Dect_10.py. It requires the files Feature_12.py, Track_3.py and Common_4.py.
+2. Run Dect_10.py. 
