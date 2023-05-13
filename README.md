@@ -21,3 +21,6 @@ To detect, track and extract features of plankton:
 # darkPixReco.py
 Detects plankton in video, optimized for detecting tiny plankton that produces fringes with low or no contrast center, making detection very difficult
 Create composite image by selecting darkets pixel of several Z reconstructions.
+
+# piClassifier.pdf
+A paper that evaluates the performance of 13 classifiers and 9 feature sets on 9 classes of plankton running on a Raspberry Pi 3 using images from a lensless microscope.
