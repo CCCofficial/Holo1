@@ -18,6 +18,9 @@ To detect, track and extract features of plankton:
 1. Edit Common_4.py for the video file you want to process, the file name to store detection, tracking and features, and operating parameters you desire.
 2. Run Dect_10.py. 
 
+# Feature.py
+Calculates shape, texture, grayscale histogram, local binary patterns, and several moment features of an object.
+
 # darkPixReco.py
 Detects plankton in video, optimized for detecting tiny plankton that produces fringes with low or no contrast center, making detection very difficult
 Create composite image by selecting darkets pixel of several Z reconstructions.
