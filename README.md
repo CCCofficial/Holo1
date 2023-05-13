@@ -8,10 +8,10 @@ Images and Python code for holographic microscope. This repository is dedicated 
 Interactive Holographic Reconstruction with Tkinter Interface
 Mouse and button driven GUI to opens a video, view frame-by-frame, selecting area to crop and reconstruct
 
-# vc3.py
-Supporting functions for holoVideoReco program
+# reco.py
+Supporting functions for holoVideoReco program, including reconstruction
 
-# Detect_10.py
+# Detect.py
 Main program to detect, track and extract morphological features of plankton. Requires Feature_12.py, Track_3.py, and Common_4.py.
 
 To detect, track and extract features of plankton:

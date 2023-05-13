@@ -1,10 +1,10 @@
 # Detect and Track objects to get location, features and ID
 
-import Feature_12 as F
-import Track_3 as T
+import Feature as F
+import Track as T
 import numpy as np
 import cv2
-import Common_4 as C
+import Common as C
 import colorsys
 
 # V10 Nov 10, 2020 If MAX_FRAME==0, read all the frames.

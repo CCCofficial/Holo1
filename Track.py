@@ -6,7 +6,7 @@
 
 import numpy as np
 import math
-import Common_4 as C # constants used by all programs
+import Common as C # constants used by all programs
 
 nextID=1 # start ID with 1
 

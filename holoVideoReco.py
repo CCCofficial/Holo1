@@ -37,7 +37,7 @@ Use Frame to move around the frames in the movie
 '''
 
 import tkinter as tk
-import vc3 as vc    # a file of functions used by this program
+import reco as vc    # a file of functions used by this program including reconstruction
 import cv2
 import numpy as np
 

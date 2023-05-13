@@ -15,7 +15,7 @@ from mahotas.zernike import zernike_moments
 from mahotas.features import haralick
 from scipy.stats import kurtosis,skew,entropy
 import math
-import Common_4 as C  # constants used by all programs
+import Common as C  # constants used by all programs
 
 def getFeatures(grayROI, binaryROI, objContour):
     # features are first converted to lists which makes them easier to append
