@@ -28,8 +28,8 @@ Create composite image by selecting darkets pixel of several Z reconstructions.
 # piClassifier.pdf
 A paper that evaluates the performance of 13 classifiers and 9 feature sets on 9 classes of plankton running on a Raspberry Pi 3 using images from a lensless microscope.
 
-ACKNOWLEDGMENT 
-==============
+ACKNOWLEDGMENTS 
+===============
 Code written by Thomas G. Zimmerman, IBM Research-Almaden and Center for Cellular Construction, except Holgraphic Reconstruction Algorithms by Nick Antipac, UC Berkeley and  Daniel Elnatan, UCSF, and Features.py written by Vito Pastore and Thomas G. Zimmerman.
 This work is funded by the National Science Foundation (NSF) grant No. DBI-1548297, Center for Cellular Construction.
 Disclaimer:  Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation. 
