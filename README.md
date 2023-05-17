@@ -34,6 +34,9 @@ Displays scatter plot of area, texture and aspect ratio of all objects for all f
 # Cluster.py
 Clusters objects in video blep1.mp4 into 5 clusters using features (featureFile_2.csv) and cluster file names (clusterFile_2.csv)
 
+# ConfusionMatrix.py
+Displays normalized confusion matrix and accuracy calculation for feature dataset FeaturesForConfusionMatrix.csv
+
 # piClassifier.pdf
 A paper that evaluates the performance of 13 classifiers and 9 feature sets on 9 classes of plankton running on a Raspberry Pi 3 using images from a lensless microscope.
 
